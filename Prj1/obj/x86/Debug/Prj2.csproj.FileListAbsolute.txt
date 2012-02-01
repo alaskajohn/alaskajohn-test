@@ -1,0 +1,7 @@
+C:\Users\pile\Documents\My Dropbox\Champlain College\_2012 01 Spring\CSI 335 - Software Sys Analysis & Design\Week 2\Prj2\Prj1\bin\Debug\Prj1.exe
+C:\Users\pile\Documents\My Dropbox\Champlain College\_2012 01 Spring\CSI 335 - Software Sys Analysis & Design\Week 2\Prj2\Prj1\bin\Debug\Prj1.pdb
+C:\Users\pile\Documents\My Dropbox\Champlain College\_2012 01 Spring\CSI 335 - Software Sys Analysis & Design\Week 2\Prj2\Prj1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pile\Documents\My Dropbox\Champlain College\_2012 01 Spring\CSI 335 - Software Sys Analysis & Design\Week 2\Prj2\Prj1\obj\x86\Debug\Prj1.exe
+C:\Users\pile\Documents\My Dropbox\Champlain College\_2012 01 Spring\CSI 335 - Software Sys Analysis & Design\Week 2\Prj2\Prj1\obj\x86\Debug\Prj1.pdb
+C:\Users\pile\Documents\My Dropbox\Champlain College\_2012 01 Spring\CSI 335 - Software Sys Analysis & Design\Week 2\Prj3\Prj1\obj\x86\Debug\Prj1.exe
+C:\Users\pile\Documents\My Dropbox\Champlain College\_2012 01 Spring\CSI 335 - Software Sys Analysis & Design\Week 2\Prj3\Prj1\obj\x86\Debug\Prj1.pdb
